@@ -1,24 +1,22 @@
-# README
+This is a simple CRUD/MVC app built with the Ruby on Rails framework, Ruby and ActiveRecord that will allow a user to keep track of all of their todo items.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Users have the ability to: 
 
-Things you may want to cover:
+-Create a new todo list
 
-* Ruby version
+-Create and save multiple todo items
 
-* System dependencies
+-View and keep track of all of their todo items
 
-* Configuration
+-Edit or delete todo items as needed
 
-* Database creation
 
-* Database initialization
+How to get set up
+To run this app, clone the repo and run bundle install and rails db:migrate. Then run rails to fire up a server. You should see the app running on localhost:3000.
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+Contributing
+Please contribute and enjoy!
 
-* Deployment instructions
-
-* ...
+License
+The gem is available as open source under the terms of the MIT License.
